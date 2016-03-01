@@ -6,6 +6,7 @@ get "/" do
   "<style>
     body{
       background: purple;
+      text-align: center;
     }
     h1{
       color: white;
@@ -17,6 +18,7 @@ get "/" do
       color: lime;
     }
   </style>
+
 
   <h1>Everybody Talks </h1>
   <h2>By The Neon Trees</h2>
